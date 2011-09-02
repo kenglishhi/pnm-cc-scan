@@ -17,3 +17,5 @@ db/*.sqlite3
 log/*.log
 tmp/
 .sass-cache/
+.idea
+pnm-class-cc-scan.iml
